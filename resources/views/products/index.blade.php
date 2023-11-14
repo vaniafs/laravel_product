@@ -1,11 +1,10 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1>Daftar Produk</h1>
     <table class="table table-bordered border-primary">
         <thead>
             <tr>
-                <th>Nama</th>
+                <th>Nama Produk</th>
                 <th>Harga</th>
                 <th>Tanggal Produksi</th>
             </tr>
