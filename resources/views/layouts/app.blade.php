@@ -18,6 +18,7 @@
         <div class="navbar-nav">
             <a class="nav-link" href="{{ route('products.index') }}">Daftar Produk</a>
             <a class="nav-link" href="{{ route('sales.index') }}">Penjualan</a>
+            <a class="nav-link" href="{{ route('transactions.index') }}">Transactions</a>
         </div>
         </div>
     </div>
